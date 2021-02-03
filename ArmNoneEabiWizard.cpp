@@ -216,7 +216,7 @@ void ArmNoneEabiWizard::GetJLinkDevices(void)
     }
     delete fs;
 
-    LinesDeviceCSV = GetArrayFromString(ContentDeviceCSV, _T("\r\n"), 0);
+    LinesDeviceCSV = GetArrayFromString(ContentDeviceCSV, _T("\n"), false);
     //
     // Parse CSV file line by line and add device to array
     //
