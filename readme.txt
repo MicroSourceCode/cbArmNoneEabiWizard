@@ -1,4 +1,4 @@
-This modification original plugin for Codeblocks 20.03 in linux
+This modification original plugin for Codeblocks 20.03 in linux, original plugin not work.
 
 Arm none eabi Wizard Plugin
 ----------------------------
